@@ -16,7 +16,7 @@ Five participants are as follows：
 | ----------- | ----------------- | -------------------------- |
 | YanHong Jin | Life Science      | 23307090071@m.fudan.edu.cn |
 | RuiQi Liu   | Clinical Medicine | 24301050114@m.fudan.edu.cn |
-| ZiYuan Wang | Clinical Medicine |                            |
+| ZiYuan Wang | Clinical Medicine | 24301050288@m.fufan.edu.cn |
 | HaoYu Zhang | Life Science      | 23307110387@m.fudan.edu.cn |
 | ZiHeng Zhou | Life Science      | 24307110092@m.fudan.edu.cn |
 
